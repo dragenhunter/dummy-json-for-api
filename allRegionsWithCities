@@ -1,0 +1,44 @@
+[
+        {
+            id: 1,
+            name: "Punjab",
+            cities: [
+                { id: 1, name: "Lahore",numberOfCustomers:Math.floor( Math.random()*100) },
+                { id: 1, name: "Attock",numberOfCustomers:Math.floor( Math.random()*100) },
+                { id: 1, name: "Bahawalnagar",numberOfCustomers:Math.floor( Math.random()*100) },
+                { id: 1, name: "Bahawalpur",numberOfCustomers:Math.floor( Math.random()*100) },
+                { id: 1, name: "Bhakkar",numberOfCustomers:Math.floor( Math.random()*100) },
+                { id: 1, name: "Chakwal",numberOfCustomers:Math.floor( Math.random()*100) },
+                { id: 1, name: "Chiniot",numberOfCustomers:Math.floor( Math.random()*100) },
+                { id: 1, name: "Faisalabad",numberOfCustomers:Math.floor( Math.random()*100) },
+                { id: 1, name: "Gujranwala",numberOfCustomers:Math.floor( Math.random()*100) },
+                { id: 1, name: "Gujrat",numberOfCustomers:Math.floor( Math.random()*100) },
+                { id: 1, name: "Hafizabad",numberOfCustomers:Math.floor( Math.random()*100) },
+                { id: 1, name: "Jhang",numberOfCustomers:Math.floor( Math.random()*100) },
+                { id: 1, name: "Jhelum",numberOfCustomers:Math.floor( Math.random()*100) },
+                { id: 1, name: "Kasur",numberOfCustomers:Math.floor( Math.random()*100) },
+                { id: 1, name: "Khanewal",numberOfCustomers:Math.floor( Math.random()*100) },
+                { id: 1, name: "Jauharabad",numberOfCustomers:Math.floor( Math.random()*100) },
+                { id: 1, name: "Layyah",numberOfCustomers:Math.floor( Math.random()*100) },
+                { id: 1, name: "Lodhran",numberOfCustomers:Math.floor( Math.random()*100) },
+                { id: 1, name: "Mianwali",numberOfCustomers:Math.floor( Math.random()*100) },
+            ]
+        },
+        {
+            id: 2,
+            name: "Sindh",
+            cities: [
+                { id: 1, name: "Karachi",numberOfCustomers:Math.floor( Math.random()*100) },
+                { id: 2, name: "Hyderabad",numberOfCustomers:Math.floor( Math.random()*100) },
+                { id: 3, name: "Thatta",numberOfCustomers:Math.floor( Math.random()*100) },
+            ]
+        },
+        {
+            id: 3,
+            name: "KPK",
+            cities: [
+                { id: 1, name: "Peshawar",numberOfCustomers:Math.floor( Math.random()*100) },
+                { id: 2, name: "Mardan",numberOfCustomers:Math.floor( Math.random()*100) },
+            ]
+        }
+    ];
